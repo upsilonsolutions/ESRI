@@ -1,0 +1,55 @@
+{
+    "access": "public",
+    "accessInformation": "Abdullah",
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1581443303000,
+    "culture": "en-us",
+    "description": "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" font-family:'AvenirNext LT Pro Regular'; font-size:11pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Arial','sans-serif'; font-size:14pt;\">This is a cross-platform dynamic radar application for intercepting points of interest at specific areas defined at ArcGIS online maps such as parks, mosques, restaurants and whatever location based map defined at ArcGIS online as a map. It provides the very beneficial information about the point of interest (bus stop: name, description, and picture if available) whatever is pass in at ArcGIS online map. The radar intercept radius is configurable which user can set using setting window of Radar 360 App</span></p></body></html>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "industries": [
+    ],
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" font-family:'AvenirNext LT Pro Regular'; font-size:11pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'AvenirNext LT Pro Regular';\">ArcGIS organizational account required.<br />See </span><a href=\"https://doc.arcgis.com/en/appstudio/#systemrequirements\"><span style=\" font-family:'AvenirNext LT Pro Regular'; text-decoration: underline; color:#0000ff;\">AppStudio for ArcGIS system requirements</span></a><span style=\" font-family:'AvenirNext LT Pro Regular';\">.</span></p></body></html>",
+    "listed": false,
+    "modified": 1582915340000,
+    "numComments": 6,
+    "numRatings": 0,
+    "numViews": 986,
+    "orgId": "2U3NfasNQ9o9LkLt",
+    "properties": null,
+    "proxyFilter": null,
+    "scoreCompleteness": 96,
+    "screenshots": [
+    ],
+    "size": 3345556,
+    "snippet": "This is dynamic radar application for intercepting points of interest at specific areas defined at ArcGIS online maps.",
+    "spatialReference": null,
+    "tags": [
+        "Radar360; Location based services; Bus Stops; Parks;"
+    ],
+    "thumbnail": "thumbnail/thumbnail.png",
+    "title": "Radar 360",
+    "type": "Native Application",
+    "typeKeywords": [
+        "API_QML",
+        "App",
+        "Application",
+        "AppStudio",
+        "Configuration",
+        "Native",
+        "qml"
+    ],
+    "url": null
+}

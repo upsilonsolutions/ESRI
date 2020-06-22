@@ -1,0 +1,142 @@
+{
+    "appLink": "",
+    "arcgisRuntime": 1007,
+    "capabilities": {
+        "audio": true,
+        "backgroundModes": {
+            "audio": {
+                "enabled": false
+            },
+            "bluetooth": {
+                "central": {
+                    "enabled": false
+                }
+            },
+            "ios": {
+                "externalAccessory": false
+            },
+            "location": {
+                "enabled": true
+            }
+        },
+        "beacon": false,
+        "biometricAuthentication": false,
+        "bluetooth": false,
+        "camera": false,
+        "fileSharing": false,
+        "highAccuracyLocation": true,
+        "ios": {
+            "externalAccessoryProtocolStrings": [
+            ]
+        },
+        "localnotification": false,
+        "location": true,
+        "microphone": false,
+        "network": true,
+        "storage": true,
+        "vibration": true
+    },
+    "deployment": {
+        "android": {
+            "packageName": "abdullah.radarapp"
+        },
+        "arcgisRuntimeExtensionsLicense": "",
+        "arcgisRuntimeLicense": "",
+        "clientId": "",
+        "ios": {
+            "bundleId": "abdullah.radarapp"
+        },
+        "macos": {
+            "bundleId": "abdullah.radarapp",
+            "codeSignIdentity": ""
+        },
+        "publisherName": "Abdullah",
+        "shortcutName": "Abdullah",
+        "uwp": {
+            "packageName": "",
+            "productID": ""
+        }
+    },
+    "devicesTypes": [
+        "desktop",
+        "tablet",
+        "phone"
+    ],
+    "display": {
+        "desktop": {
+            "minimumHeight": 400,
+            "minimumWidth": 600,
+            "windowMode": "default"
+        },
+        "enableHighDpi": true,
+        "phone": {
+            "landscape": false,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "tablet": {
+            "landscape": true,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "windows": {
+            "renderingEngine": "default"
+        }
+    },
+    "environment": {
+        "popuptemplate": "bus_stop,desc,urllink"
+    },
+    "launchUrlSchemes": [
+    ],
+    "mainFile": "MapViewer.qml",
+    "make": {
+        "ignore": [
+            "MapViewer/languages/*.sh",
+            "MapViewer/languages/*.bat",
+            "MapViewer/languages/*.ts",
+            "*.bat"
+        ]
+    },
+    "multipleInstances": true,
+    "projectFile": "MapViewer.qmlproject",
+    "properties": {
+        "baseFontSize": 14,
+        "brandColor": "#FF6A00",
+        "enableAnonymousAccess": true,
+        "feedbackEmail": "",
+        "galleryMapsQuery": "id:9d3362ff7a7b4573b190d4f5b8b2e0e6",
+        "mapTypes": "showWebMapsOnly",
+        "maxNumberOfQueryResults": 50,
+        "mediumFontTTF": "assets/fonts/OpenSans-Regular.ttf",
+        "portalSortField": "modified",
+        "portalSortOrder": "desc",
+        "portalUrl": "https://www.arcgis.com",
+        "regularFontTTF": "assets/fonts/OpenSans-Regular.ttf",
+        "showDisclaimer": false,
+        "startBackground": "assets/background.png",
+        "supportSecuredMaps": false
+    },
+    "resources": {
+        "appIcon": "appicon.png",
+        "launchImageBackground": "launchimage-background.png",
+        "launchImageBackgroundColor": "#ffffff",
+        "launchImageOverlay": "launchimage-overlay.png"
+    },
+    "templateName": "mapviewer",
+    "translations": {
+        "fileName": "MapViewer",
+        "path": "MapViewer/languages"
+    },
+    "type": "app",
+    "universalLink": "",
+    "urlScheme": "",
+    "usageDescriptionKeys": {
+        "faceIDUsageDescription": "This app requires Face ID permission to authenticate using facial recognition.",
+        "locationWhenInUseUsageDescription": "This app uses your location when in use to capture your current position."
+    },
+    "version": {
+        "major": 1,
+        "micro": 1,
+        "minor": 0
+    }
+}
